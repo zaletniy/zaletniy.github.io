@@ -8,7 +8,12 @@ Let us assume you have to set password for user, and this password should be sto
 The way how password actually stored in Linux helps with this task a lot.
  
 I mean [/etc/shadow][etc_shadow-password-hash-formats] file.
-The only this you have to do is to [generate][shadow-hash-generation] such a string for you and update it with [sed][sed]
+The only this you have to do is to generate such a string for you and update it with [sed][sed]
+
+{% highlight bash %}
+>python -c 'import crypt; print crypt.crypt("test", "$6$random_salt")'
+$6$random_salt$BnOQxEG8Gk2rzFYwoWXjr59zLVYzwshvca5oV0PtU8fAfT4a571evgca.E0hLnYNCdfq//zw9YyQN33QtztI10
+{% endhighlight %}
 
 F.e. with a script like this
 
