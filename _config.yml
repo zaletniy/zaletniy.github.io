@@ -10,7 +10,7 @@ title: N.B.
 description: > # this means to ignore newlines until "baseurl:"
   Nota bene (/ˈnoʊtə ˈbɛneɪ/, /ˈnoʊtə ˈbɛni/ or /ˈnoʊtə ˈbiːni/; plural form notate bene) is a Latin phrase meaning "note well". The phrase first appeared in English writing circa 1711.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zaletniy.github.io/" # the base hostname & protocol for your site
+url: "https://zaletniy.github.io" # the base hostname & protocol for your site
 #twitter_username: zaletniy
 github_username:  zaletniy
 
