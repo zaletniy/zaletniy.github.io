@@ -3,7 +3,8 @@ layout: post
 comments: true
 title:  "Encryption of rootfs in AWS EC2 Instance Store-Backed images"
 date:   2016-08-25 19:20:00 +0700
-categories: atricles aws ec2
+categories: "article aws ec2"
+testdata: "one two three"
 ---
 
 ## Problem
