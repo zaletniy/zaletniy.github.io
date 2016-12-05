@@ -11,3 +11,4 @@ categories: links
 1. [Routing tables](http://linux-ip.net/html/routing-tables.html#ftn.idm140337857371760)
 1. [Routing policy database (RPDB)](http://linux-ip.net/html/routing-rpdb.html)
 1. [Deprecated Linux networking commands and their replacements](https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/)
+1. [802.1q VLAN HOWTO](https://web.archive.org/web/20141225205650/http://ubuntuforums.org/archive/index.php/t-703387.html)
