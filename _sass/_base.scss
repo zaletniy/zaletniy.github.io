@@ -102,6 +102,16 @@ a {
         color: $text-color;
         text-decoration: underline;
     }
+    &:before {
+        content: "🔗";
+        letter-spacing:0px;
+    }
+}
+
+.home a, .site-title, .page-link, .post-link {
+    &:before {
+        content: "";
+    }
 }
 
 
