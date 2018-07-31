@@ -108,7 +108,7 @@ a {
     }
 }
 
-.home a, .site-title, .page-link, .post-link {
+.home > a, .site-title, .page-link, .post-link {
     &:before {
         content: "";
     }
