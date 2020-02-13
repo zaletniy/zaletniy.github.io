@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello
 
-My name is Illia Svyrydov
+My name is Ilya
 
 I'm going to keep technical notes and ideas , what worth remembering here.
 The format of blog suites my needs the best.
