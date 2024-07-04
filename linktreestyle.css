@@ -103,6 +103,11 @@ body {
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 
+.qrcode {
+    max-width: 150px;
+    width: auto;
+}
+
 
 /*-------------------------animations-----------------------*/
 @keyframes transitionAnimation {
